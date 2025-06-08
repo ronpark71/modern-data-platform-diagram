@@ -1,5 +1,8 @@
 # modern-data-platform-diagram
 My take on the latest modern data platform architecture.   
+[![Modern Data Platform Diagram](https://github.com/ronpark71/modern-data-platform-diagram/blob/main/Cloud%20Agnostic%20Data%20Architecture%20Diagram.drawio.png?raw=true)](https://github.com/ronpark71/modern-data-platform-diagram/blob/main/Cloud%20Agnostic%20Data%20Architecture%20Diagram.drawio.png)
+
+> *Click the diagram to view the full-size version.*
 
 This data architecture is designed to support approximately 95% of modern data platform use cases across a wide range of industries.
 
