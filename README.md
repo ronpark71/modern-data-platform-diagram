@@ -6,7 +6,7 @@ Welcome! This repo showcases a **cloud-agnostic data platform architecture** tha
 
 ## 📌 Architecture Diagram
 
-https://github.com/ronpark71/modern-data-platform-diagram/blob/main/Cloud%20Agnostic%20Data%20Architecture%20Diagram.drawio.png
+[![Modern Data Platform Diagram](https://github.com/ronpark71/modern-data-platform-diagram/blob/main/Cloud%20Agnostic%20Data%20Architecture%20Diagram.drawio.png?raw=true)](https://github.com/ronpark71/modern-data-platform-diagram/blob/main/Cloud%20Agnostic%20Data%20Architecture%20Diagram.drawio.png)
 
 > *Click to view full-size.*
 
